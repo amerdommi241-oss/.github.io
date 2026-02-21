@@ -1,0 +1,203 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover"><title>FlClash 使用教程 | 2026AI及流媒体优质节点推荐</title><meta name="author" content="August"><meta name="copyright" content="August"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta name="description" content="本文是关于 FlClash 使用教程 的详细图文设置教程，帮助您快速配置并连接网络。  Are you an LLM? You can read better optimized documentation at &#x2F;serve&#x2F;antiwall&#x2F;flclash.md for this page in Markdown format FlClash 使用教程FlCla">
+<meta property="og:type" content="article">
+<meta property="og:title" content="FlClash 使用教程">
+<meta property="og:url" content="https://amerdommi241-oss.github.io/docs/proxy/flclash/index.html">
+<meta property="og:site_name" content="2026AI及流媒体优质节点推荐">
+<meta property="og:description" content="本文是关于 FlClash 使用教程 的详细图文设置教程，帮助您快速配置并连接网络。  Are you an LLM? You can read better optimized documentation at &#x2F;serve&#x2F;antiwall&#x2F;flclash.md for this page in Markdown format FlClash 使用教程FlCla">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://amerdommi241-oss.github.io/img/butterfly-icon.png">
+<meta property="article:published_time" content="2026-02-21T13:00:00.000Z">
+<meta property="article:modified_time" content="2026-02-21T12:38:28.435Z">
+<meta property="article:author" content="August">
+<meta property="article:tag" content="客户端">
+<meta property="article:tag" content="教程">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://amerdommi241-oss.github.io/img/butterfly-icon.png"><script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "FlClash 使用教程",
+  "url": "https://amerdommi241-oss.github.io/docs/proxy/flclash/",
+  "image": "https://amerdommi241-oss.github.io/img/butterfly-icon.png",
+  "datePublished": "2026-02-21T13:00:00.000Z",
+  "dateModified": "2026-02-21T12:38:28.435Z",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "August",
+      "url": "https://amerdommi241-oss.github.io"
+    }
+  ]
+}</script><link rel="shortcut icon" href="/img/favicon.png"><link rel="canonical" href="https://amerdommi241-oss.github.io/docs/proxy/flclash/index.html"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><link rel="stylesheet" href="/css/index.css?v=5.5.4"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.1.0/css/all.min.css"><script>
+    (() => {
+      
+    const saveToLocal = {
+      set: (key, value, ttl) => {
+        if (!ttl) return
+        const expiry = Date.now() + ttl * 86400000
+        localStorage.setItem(key, JSON.stringify({ value, expiry }))
+      },
+      get: key => {
+        const itemStr = localStorage.getItem(key)
+        if (!itemStr) return undefined
+        const { value, expiry } = JSON.parse(itemStr)
+        if (Date.now() > expiry) {
+          localStorage.removeItem(key)
+          return undefined
+        }
+        return value
+      }
+    }
+
+    window.btf = {
+      saveToLocal,
+      getScript: (url, attr = {}) => new Promise((resolve, reject) => {
+        const script = document.createElement('script')
+        script.src = url
+        script.async = true
+        Object.entries(attr).forEach(([key, val]) => script.setAttribute(key, val))
+        script.onload = script.onreadystatechange = () => {
+          if (!script.readyState || /loaded|complete/.test(script.readyState)) resolve()
+        }
+        script.onerror = reject
+        document.head.appendChild(script)
+      }),
+      getCSS: (url, id) => new Promise((resolve, reject) => {
+        const link = document.createElement('link')
+        link.rel = 'stylesheet'
+        link.href = url
+        if (id) link.id = id
+        link.onload = link.onreadystatechange = () => {
+          if (!link.readyState || /loaded|complete/.test(link.readyState)) resolve()
+        }
+        link.onerror = reject
+        document.head.appendChild(link)
+      }),
+      addGlobalFn: (key, fn, name = false, parent = window) => {
+        if (!false && key.startsWith('pjax')) return
+        const globalFn = parent.globalFn || {}
+        globalFn[key] = globalFn[key] || {}
+        globalFn[key][name || Object.keys(globalFn[key]).length] = fn
+        parent.globalFn = globalFn
+      }
+    }
+  
+      
+      const activateDarkMode = () => {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      const activateLightMode = () => {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
+        }
+      }
+
+      btf.activateDarkMode = activateDarkMode
+      btf.activateLightMode = activateLightMode
+
+      const theme = saveToLocal.get('theme')
+    
+          theme === 'dark' ? activateDarkMode() : theme === 'light' ? activateLightMode() : null
+        
+      
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        document.documentElement.classList.toggle('hide-aside', asideStatus === 'hide')
+      }
+    
+      
+    const detectApple = () => {
+      if (/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)) {
+        document.documentElement.classList.add('apple')
+      }
+    }
+    detectApple()
+  
+    })()
+  </script><script>const GLOBAL_CONFIG = {
+  root: '/',
+  algolia: undefined,
+  localSearch: undefined,
+  translate: undefined,
+  highlight: {"plugin":"highlight.js","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false,"highlightFullpage":false,"highlightMacStyle":false},
+  copy: {
+    success: '复制成功',
+    error: '复制失败',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: false,
+    post: false
+  },
+  runtime: '',
+  dateSuffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: undefined,
+  lightbox: 'null',
+  Snackbar: undefined,
+  infinitegrid: {
+    js: 'https://cdn.jsdelivr.net/npm/@egjs/infinitegrid@4.13.0/dist/infinitegrid.min.js',
+    buttonText: '加载更多'
+  },
+  isPhotoFigcaption: false,
+  islazyloadPlugin: false,
+  isAnchor: false,
+  percent: {
+    toc: true,
+    rightside: false,
+  },
+  autoDarkmode: false
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  title: 'FlClash 使用教程',
+  isHighlightShrink: false,
+  isToc: true,
+  pageType: 'post'
+}</script><meta name="generator" content="Hexo 8.1.1"></head><body><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img text-center"><img src="/img/butterfly-icon.png" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/></div><div class="site-data text-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">17</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">20</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">5</div></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/categories/%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90/"><i class="fa-fw fas fa-plane"></i><span> 机场推荐</span></a></div><div class="menus_item"><a class="site-page" href="/categories/%E6%8A%80%E6%9C%AF%E7%A7%91%E6%99%AE/"><i class="fa-fw fas fa-book"></i><span> 技术科普</span></a></div><div class="menus_item"><a class="site-page" href="/guide/"><i class="fa-fw fas fa-paper-plane"></i><span> 科学上网软件使用指南</span></a></div><div class="menus_item"><a class="site-page" href="/tags/%E6%8E%A5%E7%A0%81/"><i class="fa-fw fas fa-sms"></i><span> 接码平台</span></a></div><div class="menus_item"><a class="site-page" href="/tags/AI/"><i class="fa-fw fas fa-robot"></i><span> AI工具</span></a></div><div class="menus_item"><a class="site-page" href="/tags/%E6%B5%81%E5%AA%92%E4%BD%93/"><i class="fa-fw fas fa-play-circle"></i><span> 流媒体账号</span></a></div></div></div></div><div class="post" id="body-wrap"><header class="not-top-img" id="page-header"><nav id="nav"><span id="blog-info"><a class="nav-site-title" href="/"><span class="site-name">2026AI及流媒体优质节点推荐</span></a><a class="nav-page-title" href="/"><span class="site-name">FlClash 使用教程</span><span class="site-name"><i class="fa-solid fa-circle-arrow-left"></i><span>  返回首页</span></span></a></span><div id="menus"><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/categories/%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90/"><i class="fa-fw fas fa-plane"></i><span> 机场推荐</span></a></div><div class="menus_item"><a class="site-page" href="/categories/%E6%8A%80%E6%9C%AF%E7%A7%91%E6%99%AE/"><i class="fa-fw fas fa-book"></i><span> 技术科普</span></a></div><div class="menus_item"><a class="site-page" href="/guide/"><i class="fa-fw fas fa-paper-plane"></i><span> 科学上网软件使用指南</span></a></div><div class="menus_item"><a class="site-page" href="/tags/%E6%8E%A5%E7%A0%81/"><i class="fa-fw fas fa-sms"></i><span> 接码平台</span></a></div><div class="menus_item"><a class="site-page" href="/tags/AI/"><i class="fa-fw fas fa-robot"></i><span> AI工具</span></a></div><div class="menus_item"><a class="site-page" href="/tags/%E6%B5%81%E5%AA%92%E4%BD%93/"><i class="fa-fw fas fa-play-circle"></i><span> 流媒体账号</span></a></div></div><div id="toggle-menu"><span class="site-page"><i class="fas fa-bars fa-fw"></i></span></div></div></nav></header><main class="layout" id="content-inner"><div id="post"><div id="post-info"><h1 class="post-title">FlClash 使用教程</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2026-02-21T13:00:00.000Z" title="发表于 2026-02-21 21:00:00">2026-02-21</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2026-02-21T12:38:28.435Z" title="更新于 2026-02-21 20:38:28">2026-02-21</time></span><span class="post-meta-categories"><span class="post-meta-separator">|</span><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/">科学上网软件使用指南</a></span></div><div class="meta-secondline"><span class="post-meta-separator">|</span><span class="post-meta-pv-cv" id="" data-flag-title=""><i class="far fa-eye fa-fw post-meta-icon"></i><span class="post-meta-label">浏览量:</span><span id="busuanzi_value_page_pv"><i class="fa-solid fa-spinner fa-spin"></i></span></span></div></div></div><article class="container post-content" id="article-container"><blockquote>
+<p>本文是关于 <strong>FlClash 使用教程</strong> 的详细图文设置教程，帮助您快速配置并连接网络。</p>
+</blockquote>
+<p>Are you an LLM? You can read better optimized documentation at &#x2F;serve&#x2F;antiwall&#x2F;flclash.md for this page in Markdown format</p>
+<h1 id="FlClash-使用教程"><a href="#FlClash-使用教程" class="headerlink" title="FlClash 使用教程"></a>FlClash 使用教程</h1><p><strong>FlClash</strong> 是一款基于 Clash 核心的多功能图形用户界面 (GUI) 工具，专为那些需要简单、直观地管理网络代理的用户设计。它通过丰富的功能和友好的界面，简化了代理配置和管理过程，为用户提供了一个高效且稳定的解决方案。</p>
+<h2 id="FlClash-客户端下载"><a href="#FlClash-客户端下载" class="headerlink" title="FlClash 客户端下载"></a>FlClash 客户端下载</h2><p>[<img src="https://i.theojs.cn/logo/flclash.webp">FlClash</p>
+<p>基于 ClashMeta(Mihomo) 核心的网络代理工具，它的界面基于 Material You 设计，简单易用，开源且无广告。</p>
+<p>](<a target="_blank" rel="noopener" href="https://github.com/chen08209/FlClash/releases">https://github.com/chen08209/FlClash/releases</a>)</p>
+<h2 id="FlClash-添加订阅教程"><a href="#FlClash-添加订阅教程" class="headerlink" title="FlClash 添加订阅教程"></a>FlClash 添加订阅教程</h2><h3 id="获取订阅地址"><a href="#获取订阅地址" class="headerlink" title="获取订阅地址"></a>获取订阅地址</h3><p>[优质机场汇总</p>
+<p>推荐一些性价比高、稳定可靠的优质机场服务商，助你轻松翻墙上网。</p>
+<p>立即购买</p>
+<p>](&#x2F;serve&#x2F;airport&#x2F;summary)</p>
+<p>登录机场官网后台，复制 <strong>订阅链接</strong>。<br>⚠️ 建议<strong>关闭浏览器自动翻译功能</strong>，避免订阅链接被错误处理。</p>
+<h3 id="一键导入"><a href="#一键导入" class="headerlink" title="一键导入"></a>一键导入</h3><p>机场面板基本都有导入到Clash的按钮，直接一键导入即可。以v2board面板为例子：点击首页的一键订阅导入的clash。</p>
+<p><img src="https://i.theojs.cn/docs/20260103093955573.webp" alt="FlClash 一键导入订阅"></p>
+<p>FlClash 一键导入订阅</p>
+<h3 id="手动复制订阅导入"><a href="#手动复制订阅导入" class="headerlink" title="手动复制订阅导入"></a>手动复制订阅导入</h3><p>选择【配置】页面–点击加号–选择 第三个URL–粘贴复制的订阅进去–提交</p>
+<p><img src="https://i.theojs.cn/docs/20260103094004644.webp" alt="FlClash 手动导入订阅"></p>
+<p>FlClash 手动导入订阅</p>
+<p><img src="data:image/webp;base64,UklGRkIHAABXRUJQVlA4TDUHAAAvKwF+ANegKJKk5nIivnGAC/SjUEEbSWrumB88vIFXFElSc4F4+YUGvCAaa/Mf5533X/uWQOGrG5OaKg7Sx5UKMtRKqQ4MDSlqJdIECqoU4QIJVG0vng8fAIpcKgUo2raWN270RYyoSE3EmBbnvv+Tivt9yBNb0F9F9F8SJElhI3XrxgYj3MwAki9CE/vG9T//KeC6ALhPj+WOAeJUY7Ose0VV8Zgq53Uirug7H+x8KwS3ldQ8gGVjaasRmdsNg8Fpr9kWFTSa27PRbji2g3Xbm92nG7DNJER9wfSo7TAYnPdJjMnGUhf8o7a9zxgOLtu2GoUHNur6UdveOtdSFD9NBU/zXgOxWKaeMN3vKmZda/hLsFA7A7eVoETNncOnOk8peB601GeYBYwMVrrGmgXCpurmDR3jrwCxAdtMfcd9arA2uu3ztoFp0rhPXbsJ/hVNFrrEGtUbDHPr3u/QNr608A8SjRVvdDAyHC0YdygD9GbUMEKF0YJx53v8TQy2ihAB+ITsLC0NUUWKKwAKjSfQec4YAOuGM+UAgcfufD2vIIlFQ5kxtkISssMb8quQlbqM6mPDgUn5Wolg90WP5NWgCn9BNpQb+l1GkWycmkOMhtbkqacYUIzQBGe6oUjFOdEyLmfy6XET6TUB9ILkwBJiMgagDAM+gyLSQMM0RNBEoOidFWJ1jfKfY/MEd4+6oLwZAB9JCygU/BGpTwAvBISEGthiSIWxBpI3hhMSKwnsBxirqOB8aBgNIwxtgWn3vzitNFUfFgfQR3vTQPM7l3qQIbd72gV2E0Mgxze2CQfocPnaXRFBdDizgtMLsELcXkErsA2/O9hribydhmyEMwpNS5dJI5viaCssEiMh4oDRWlVUfJAq47SQjDXG1RHHgVCArE30zpAWQpKYgzFTQYZ6igF1kpYkQqiMxisFVG24pMHzZeasEMNXFuo0zobJFsj5jmLNp2skX8PAfo8GjJE6BoLnTRekUcQY+PmwjScM0TAMWuM+xLq+67UhRaeG4CmQLgC6CSE7HDBA0Jc1KHOGHT2NOtOTAdP4mKWATqUbGlT3V2971zbJ45ARpybvGcKZTeyCE5Mp1HWtCx7ZWp0u8Xn1VHjL2+LpPtA09FkTQrVB6rknh93Txh0ZNcnq1u54QTvPMF7EAal2rX5j8UWqsO8hURuKbwli83cOjRKaTg7X/7z+Z7c4D9UznTf7AeplpZ6mccm7tSyGhMfe333CiOA2tVilzHv9ihEBgJtqv6lMUdMGzFa+kcHgQ8Vm5W+57dhmYFSqVcKVSfU0baSkx8hOFN3P49pUIiROL7Ks80a5yHoMJ/IFB93VPVRIZj29ewzRDyo+d9ynu3UXvGOzM1L2lAaefLuZwRgF88zxmCYjXeI44PAxTw8s+u1A4NAD/Nuk++cGQwBWcQDrtFgitmkCRgZjQRUVflR3kJBEfgMwRkgidAwRfojwMURIEmQv+TJEwOfPvafPgjGC7unvKDCfQPItBcXMtxObWVSysEBhBhF+ltxiVkOQ3BAMSMG58Rt5reG/BhsZeDwU7DRJJrLLtn6XlSTPz92rFFROjy3pmCg554fcOL4dzhTVMEY6EBJiw1OaKMPRNhqmNKZFgIre+eErGAxnFvZ0KmaGJ5jIUstKhp3fzqvUElZ+NpVFC8UpwcbwEk6dxjKn2abSr5kzPBq+9WLtFG5/v5vsEotqzOACHa5I3TnJWQq6YhQMd6s9NVoTu+6AxpR10RM8jhkVeilKcJXRBbQMrWZn7qcGPHYkYw91kooIodKa6qy5SNFj8uoy0wW0qn0+bmBdWSUqEdmC0+NQ8U1iSXbZW5vGqfNANZ/hdTwaIBX0TzVhSDlgsB9acY+MgdpeZ4RCEyWJSihmmiI4ZpyevD3BkdMoblrXgUKgTcE09FkTnmoTbyDdQBSbEIlRhG6+RFo5yiKMatKls0ZWTSk15H8X63eJk4Bu4Pqfw8w/e8khB3rI63+8Dd8VKtXPVnta9J/7coZ/k8kZoEZm3o9xwn0CxglVwThh2oCeo3z/EJGQD6o80KSq6DiiKPpjyZHaZqrn9htB5LlncLYm7jU9Z7fxKSbDAZEqJlj1X8eGpd8d/fDS4B9HZC51Z9ysWfzYG3YZPz9UaD4B6AdUDnBtXklWyu52eslyXxAf0oa4hE7w9ZDkCEQ+0Ae+Hj4OQr6jC3w5qKgYOSeN+f0TPeCrwjiSNbt7wBcu0JFkbPBDzCOJyNAUzIbuh4xOE+MeuMGPTjzs/Jq/rT7a7+KhujPOu/Wm/8f4Xnm3zh/Et8m71QOcdN6td8VZ5906AfP6ebe6gDfKu9UFaN+ebN6tUzAnmnfrNKpfMe9WT/AOebe6gTfJu9UNnDev//E2/L8PdJIDjut/Xv/z+p/X/7z+5/U/r/95/c/rf17/8/qf1/+8/uf1P6//ef3P639e//P6n9f/vP7n9T//AhMA" alt="FlClash 手动导入订阅2"></p>
+<p>FlClash 手动导入订阅2</p>
+<h2 id="打开开关，开始使用"><a href="#打开开关，开始使用" class="headerlink" title="打开开关，开始使用"></a>打开开关，开始使用</h2><p>打开首页仪表盘右下角开关即可使用。就这么简单，太方便了。打开开关就是开启系统代理（接管你电脑的所有请求，clash进行分流需不需要走代理），很多用户根本不明白系统代理是什么意思，也不需要知道其实。</p>
+<p><img src="https://i.theojs.cn/docs/20260103094103306.webp" alt="FlClash 打开开关"></p>
+<p>FlClash 打开开关</p>
+<h2 id="选择节点"><a href="#选择节点" class="headerlink" title="选择节点"></a>选择节点</h2><p>代理页面可以选择一个节点，默认是自动选择的。</p>
+<p><img src="https://i.theojs.cn/docs/20260103094110984.webp" alt="FlClash 选择节点"></p>
+<p>FlClash 选择节点</p>
+<h2 id="其他设置"><a href="#其他设置" class="headerlink" title="其他设置"></a>其他设置</h2><h3 id="开机自启–工具–应用程序"><a href="#开机自启–工具–应用程序" class="headerlink" title="开机自启–工具–应用程序"></a>开机自启–工具–应用程序</h3><p><img src="https://i.theojs.cn/docs/20260103094119421.webp" alt="FlClash 开机自启"></p>
+<p>FlClash 开机自启</p>
+<p><img src="https://i.theojs.cn/docs/20260103094129150.webp" alt="FlClash 开机自启2"></p>
+<p>FlClash 开机自启2</p>
+<hr>
+<ul>
+<li><a target="_blank" rel="noopener" href="https://doc.theojs.cn/serve/airport/summary">🔥🔥🔥2026年便宜好用的翻墙VPN机场推荐评测(长期更新 欢迎推荐)</a></li>
+<li><a target="_blank" rel="noopener" href="https://doc.theojs.cn/serve/sharing/account-sharing-guide">稳定好用的流媒体合租平台推荐(长期更新 欢迎推荐)</a></li>
+<li><a target="_blank" rel="noopener" href="https://doc.theojs.cn/ai/summary">AI 使用教程汇总｜ChatGPT、Gemini 新手入门与国内使用指南</a></li>
+<li><a target="_blank" rel="noopener" href="https://doc.theojs.cn/serve/code/sms">国外接码平台 Hero SMS 评测（稳定 · 低价 · 高成功率）</a></li>
+</ul>
+<p>免责声明</p>
+<p>本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。</p>
+</article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta"><i class="fas fa-circle-user fa-fw"></i>文章作者: </span><span class="post-copyright-info"><a href="https://amerdommi241-oss.github.io">August</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta"><i class="fas fa-square-arrow-up-right fa-fw"></i>文章链接: </span><span class="post-copyright-info"><a href="https://amerdommi241-oss.github.io/docs/proxy/flclash/">https://amerdommi241-oss.github.io/docs/proxy/flclash/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta"><i class="fas fa-circle-exclamation fa-fw"></i>版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来源 <a href="https://amerdommi241-oss.github.io" target="_blank">2026AI及流媒体优质节点推荐</a>！</span></div></div><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/%E6%95%99%E7%A8%8B/">教程</a><a class="post-meta__tags" href="/tags/%E5%AE%A2%E6%88%B7%E7%AB%AF/">客户端</a></div><div class="post-share"><div class="social-share" data-image="/img/butterfly-icon.png" data-sites="facebook,x,wechat,weibo,qq"></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1.1.6/sharejs/dist/css/share.min.css" media="print" onload="this.media='all'"><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1.1.6/sharejs/dist/js/social-share.min.js" defer></script></div></div><nav class="pagination-post" id="pagination"><a class="pagination-related" href="/docs/proxy/quantumult-x/" title="Quantumult X 使用教程"><div class="cover" style="background: var(--default-bg-color)"></div><div class="info"><div class="info-1"><div class="info-item-1">上一篇</div><div class="info-item-2">Quantumult X 使用教程</div></div><div class="info-2"><div class="info-item-1"> 本文是关于 Quantumult X 使用教程 的详细图文设置教程，帮助您快速配置并连接网络。  Are you an LLM? You can read better optimized documentation at &#x2F;serve&#x2F;antiwall&#x2F;quantumult-x.md for this page in Markdown format Quantumult X 使用教程Quantumult X（简称圈 X） 是一款运行于 iOS &#x2F; iPadOS &#x2F; macOS 平台的高级网络代理客户端，集成节点管理、规则分流、策略组与脚本能力，适合日常代理与高级网络控制场景。 支持协议包括：Shadowsocks（SS）、ShadowsocksR（SSR）、VMess、VLESS、Trojan、HTTP &#x2F; HTTPS、SOCKS5 等。 通过本文的 2026 最新 Quantumult X 使用教程，可快速完成客户端安装、订阅导入、节点切换与运行模式设置。 Quantumult X 客户端下载[Quantumult...</div></div></div></a><a class="pagination-related" href="/docs/proxy/nekobox/" title="NekoBox 使用教程"><div class="cover" style="background: var(--default-bg-color)"></div><div class="info text-right"><div class="info-1"><div class="info-item-1">下一篇</div><div class="info-item-2">NekoBox 使用教程</div></div><div class="info-2"><div class="info-item-1"> 本文是关于 NekoBox 使用教程 的详细图文设置教程，帮助您快速配置并连接网络。  Are you an LLM? You can read better optimized documentation at &#x2F;serve&#x2F;antiwall&#x2F;nekobox.md for this page in Markdown format NekoBox 使用教程NekoBox for Android 是一款基于 sing-box 内核的 Android 代理客户端，支持多协议、多节点管理与灵活的路由分流，适合新手与进阶用户使用。 支持协议：HTTPS、Hysteria、NaïveProxy、Shadowsocks、SOCKS5、SSH、Trojan、TUIC、V2Ray、WireGuard、Xray 等。 NekoBox 客户端下载[NekoBox for Android 基于 sing-box 的多协议代理客户端，功能全面，更新活跃。 ](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases...</div></div></div></a></nav><div class="relatedPosts"><div class="headline"><i class="fas fa-thumbs-up fa-fw"></i><span>相关推荐</span></div><div class="relatedPosts-list"><a class="pagination-related" href="/docs/proxy/clash-meta-for-android/" title="Clash Meta for Android 使用教程"><div class="cover" style="background: var(--default-bg-color)"></div><div class="info text-center"><div class="info-1"><div class="info-item-1"><i class="far fa-calendar-alt fa-fw"></i> 2026-02-21</div><div class="info-item-2">Clash Meta for Android 使用教程</div></div><div class="info-2"><div class="info-item-1"> 本文是关于 Clash Meta for Android 使用教程 的详细图文设置教程，帮助您快速配置并连接网络。  Are you an LLM? You can read better optimized documentation at &#x2F;serve&#x2F;antiwall&#x2F;clash-meta-for-android.md for this page in Markdown format Clash Meta for Android 使用教程相比传统 Clash，Clash Meta（CMFA） 引入了更多新特性，例如支持 VLESS XTLS、Trojan XTLS、Hysteria 等新型出站协议。在保留 Clash 核心规则系统与高自由度配置能力的同时，融合了部分 Clash Premium 功能，是目前功能完整度与性能都非常突出的代理客户端。 Clash Meta for Android 客户端下载[Clash Meta for Android 基于 mihomo 内核开发，支持 V2Ray、Trojan、Shadowsocks(R)、S...</div></div></div></a><a class="pagination-related" href="/docs/proxy/shadowrocket/" title="Shadowrocket 使用教程"><div class="cover" style="background: var(--default-bg-color)"></div><div class="info text-center"><div class="info-1"><div class="info-item-1"><i class="far fa-calendar-alt fa-fw"></i> 2026-02-21</div><div class="info-item-2">Shadowrocket 使用教程</div></div><div class="info-2"><div class="info-item-1"> 本文是关于 Shadowrocket 使用教程 的详细图文设置教程，帮助您快速配置并连接网络。  Are you an LLM? You can read better optimized documentation at &#x2F;serve&#x2F;antiwall&#x2F;shadowrocket.md for this page in Markdown format Shadowrocket 使用教程Shadowrocket（俗称小火箭） 是一款运行于 iOS &#x2F; iPadOS 平台的老牌代理客户端，因稳定、兼容性强而广受欢迎。 支持协议包括：SS、SSR、VMess（V2Ray）、VLESS（Xray）、Trojan、Hysteria、TUIC、Snell、Brook、HTTP(S)、SOCKS5 等。 通过本文的 2026 最新 Shadowrocket 使用教程，你可以快速完成客户端安装、订阅导入、节点测试与代理启用。 Shadowrocket 客户端下载[Shadowrocket Shadowrocket（小火箭），iOS 平台经典代理工具，稳定...</div></div></div></a><a class="pagination-related" href="/docs/proxy/quantumult-x/" title="Quantumult X 使用教程"><div class="cover" style="background: var(--default-bg-color)"></div><div class="info text-center"><div class="info-1"><div class="info-item-1"><i class="far fa-calendar-alt fa-fw"></i> 2026-02-21</div><div class="info-item-2">Quantumult X 使用教程</div></div><div class="info-2"><div class="info-item-1"> 本文是关于 Quantumult X 使用教程 的详细图文设置教程，帮助您快速配置并连接网络。  Are you an LLM? You can read better optimized documentation at &#x2F;serve&#x2F;antiwall&#x2F;quantumult-x.md for this page in Markdown format Quantumult X 使用教程Quantumult X（简称圈 X） 是一款运行于 iOS &#x2F; iPadOS &#x2F; macOS 平台的高级网络代理客户端，集成节点管理、规则分流、策略组与脚本能力，适合日常代理与高级网络控制场景。 支持协议包括：Shadowsocks（SS）、ShadowsocksR（SSR）、VMess、VLESS、Trojan、HTTP &#x2F; HTTPS、SOCKS5 等。 通过本文的 2026 最新 Quantumult X 使用教程，可快速完成客户端安装、订阅导入、节点切换与运行模式设置。 Quantumult X 客户端下载[Quantumult...</div></div></div></a><a class="pagination-related" href="/docs/proxy/egern/" title="Egern 使用教程"><div class="cover" style="background: var(--default-bg-color)"></div><div class="info text-center"><div class="info-1"><div class="info-item-1"><i class="far fa-calendar-alt fa-fw"></i> 2026-02-21</div><div class="info-item-2">Egern 使用教程</div></div><div class="info-2"><div class="info-item-1"> 本文是关于 Egern 使用教程 的详细图文设置教程，帮助您快速配置并连接网络。  Are you an LLM? You can read better optimized documentation at &#x2F;serve&#x2F;antiwall&#x2F;egern.md for this page in Markdown format Egern 使用教程Egern 是一款功能丰富且强大的网络工具，专为代理、拦截和修改网络流量而设计。 主要特点包括：  详细记录 TCP、UDP、DNS 和 HTTP 网络流量。 支持丰富的规则类型：域名、域名关键词、域名后缀、域名正则表达式、地理位置、IPv4&#x2F;IPv6 CIDR、URL 正则表达式、规则集以及默认规则。 提供灵活的策略组选项：选择、自动测试、故障切换、负载均衡和外部策略。 支持多种代理协议：HTTP、SOCKS5、Shadowsocks、Trojan、Hysteria2、Vless 和 Vmess。 URL 重写功能，让您更自由地定制网络请求。 高度可定制的请求和响应头部重写功能。 灵活的请求和响应...</div></div></div></a><a class="pagination-related" href="/docs/proxy/clash-mi/" title="Clash Mi 使用教程"><div class="cover" style="background: var(--default-bg-color)"></div><div class="info text-center"><div class="info-1"><div class="info-item-1"><i class="far fa-calendar-alt fa-fw"></i> 2026-02-21</div><div class="info-item-2">Clash Mi 使用教程</div></div><div class="info-2"><div class="info-item-1"> 本文是关于 Clash Mi 使用教程 的详细图文设置教程，帮助您快速配置并连接网络。  Are you an LLM? You can read better optimized documentation at &#x2F;serve&#x2F;antiwall&#x2F;clash-mi.md for this page in Markdown format Clash Mi 使用教程Clash Mi 是一款基于 Mihomo（Clash Meta）核心 的代理客户端，界面简洁、操作直观，非常适合新手快速导入机场订阅并使用规则分流或全局代理。 Clash Mi 客户端下载[Clash Mi 基于 Mihomo 核心的轻量代理客户端，支持订阅导入、规则分流与隧道代理 ](https://github.com/KaringX/clashmi/releases)  建议优先下载 最新正式版（Release）  Clash Mi 添加订阅教程获取订阅地址[优质机场汇总 推荐一些性价比高、稳定可靠的优质机场服务商，助你轻松翻墙上网。 立即购买 ](&#x2F;serve&#x2F;...</div></div></div></a><a class="pagination-related" href="/docs/proxy/nekobox/" title="NekoBox 使用教程"><div class="cover" style="background: var(--default-bg-color)"></div><div class="info text-center"><div class="info-1"><div class="info-item-1"><i class="far fa-calendar-alt fa-fw"></i> 2026-02-21</div><div class="info-item-2">NekoBox 使用教程</div></div><div class="info-2"><div class="info-item-1"> 本文是关于 NekoBox 使用教程 的详细图文设置教程，帮助您快速配置并连接网络。  Are you an LLM? You can read better optimized documentation at &#x2F;serve&#x2F;antiwall&#x2F;nekobox.md for this page in Markdown format NekoBox 使用教程NekoBox for Android 是一款基于 sing-box 内核的 Android 代理客户端，支持多协议、多节点管理与灵活的路由分流，适合新手与进阶用户使用。 支持协议：HTTPS、Hysteria、NaïveProxy、Shadowsocks、SOCKS5、SSH、Trojan、TUIC、V2Ray、WireGuard、Xray 等。 NekoBox 客户端下载[NekoBox for Android 基于 sing-box 的多协议代理客户端，功能全面，更新活跃。 ](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases...</div></div></div></a></div></div></div><div class="aside-content" id="aside-content"><div class="sticky_layout"><div class="card-widget" id="card-toc"><div class="item-headline"><i class="fas fa-stream"></i><span>目录</span><span class="toc-percentage"></span></div><div class="toc-content"><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#FlClash-%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B"><span class="toc-number">1.</span> <span class="toc-text">FlClash 使用教程</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#FlClash-%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8B%E8%BD%BD"><span class="toc-number">1.1.</span> <span class="toc-text">FlClash 客户端下载</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#FlClash-%E6%B7%BB%E5%8A%A0%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B"><span class="toc-number">1.2.</span> <span class="toc-text">FlClash 添加订阅教程</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E8%8E%B7%E5%8F%96%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80"><span class="toc-number">1.2.1.</span> <span class="toc-text">获取订阅地址</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E4%B8%80%E9%94%AE%E5%AF%BC%E5%85%A5"><span class="toc-number">1.2.2.</span> <span class="toc-text">一键导入</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%89%8B%E5%8A%A8%E5%A4%8D%E5%88%B6%E8%AE%A2%E9%98%85%E5%AF%BC%E5%85%A5"><span class="toc-number">1.2.3.</span> <span class="toc-text">手动复制订阅导入</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%89%93%E5%BC%80%E5%BC%80%E5%85%B3%EF%BC%8C%E5%BC%80%E5%A7%8B%E4%BD%BF%E7%94%A8"><span class="toc-number">1.3.</span> <span class="toc-text">打开开关，开始使用</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E9%80%89%E6%8B%A9%E8%8A%82%E7%82%B9"><span class="toc-number">1.4.</span> <span class="toc-text">选择节点</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%85%B6%E4%BB%96%E8%AE%BE%E7%BD%AE"><span class="toc-number">1.5.</span> <span class="toc-text">其他设置</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%BC%80%E6%9C%BA%E8%87%AA%E5%90%AF%E2%80%93%E5%B7%A5%E5%85%B7%E2%80%93%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F"><span class="toc-number">1.5.1.</span> <span class="toc-text">开机自启–工具–应用程序</span></a></li></ol></li></ol></li></ol></div></div><div class="card-widget ads-wrap"><div class="card-widget card-ad" style="order: -1; padding: 20px 15px;"><div class="item-headline"><i class="fas fa-plane"></i><span> 机场推荐</span></div><div class="card-ad-content" style="display: flex; flex-direction: column; gap: 10px;"><a href="https://5844993lb01.jlcvipaff.cc/#/register?code=KUkfOY13" target="_blank" style="display: flex; align-items: center; padding: 10px 0; text-decoration: none; transition: opacity 0.3s;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'"><img src="https://jichangdaohang.cc/zb_users/upload/2025/12/20251215221131176580789158628.jpg" style="width: 45px; height: 45px; border-radius: 8px; margin-right: 10px; object-fit: cover;"><div style="display: flex; flex-direction: column; justify-content: center; line-height: 1.4;"><div style="font-size: 15px; font-weight: bold; color: #8e82fe; margin-bottom: 2px;">极连云特惠专线</div><div style="font-size: 13px; color: #666;">全场 <span style="color: #1a7b4c; font-weight: bold;">8折: JLY888</span></div><div style="font-size: 13px; color: #666;">3年付享 <span style="color: #1a7b4c; font-weight: bold;">48折</span></div></div></a><a href="#" target="_blank"><img src="https://via.placeholder.com/300x100?text=Ad+2" style="width: 100%; border-radius: 4px;"></a><a href="#" target="_blank"><img src="https://via.placeholder.com/300x100?text=Ad+3" style="width: 100%; border-radius: 4px;"></a><a href="#" target="_blank"><img src="https://via.placeholder.com/300x100?text=Ad+4" style="width: 100%; border-radius: 4px;"></a></div></div></div><div class="card-widget card-recent-post"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/docs/proxy/clash-party/" title="Clash Party 使用教程">Clash Party 使用教程</a><time datetime="2026-02-21T13:00:00.000Z" title="发表于 2026-02-21 21:00:00">2026-02-21</time></div></div><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/docs/proxy/clash-verge-rev/" title="Clash Verge Rev 使用教程">Clash Verge Rev 使用教程</a><time datetime="2026-02-21T13:00:00.000Z" title="发表于 2026-02-21 21:00:00">2026-02-21</time></div></div><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/docs/proxy/nekobox/" title="NekoBox 使用教程">NekoBox 使用教程</a><time datetime="2026-02-21T13:00:00.000Z" title="发表于 2026-02-21 21:00:00">2026-02-21</time></div></div><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/docs/proxy/flclash/" title="FlClash 使用教程">FlClash 使用教程</a><time datetime="2026-02-21T13:00:00.000Z" title="发表于 2026-02-21 21:00:00">2026-02-21</time></div></div><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/docs/proxy/quantumult-x/" title="Quantumult X 使用教程">Quantumult X 使用教程</a><time datetime="2026-02-21T13:00:00.000Z" title="发表于 2026-02-21 21:00:00">2026-02-21</time></div></div></div></div></div></div><div class="aside-content left-sidebar" id="aside-content"><div class="card-widget card-menu"><div class="item-headline"><i class="fas fa-compass"></i><span>导航</span></div><div class="card-menu-list"><a class="card-menu-item" href="/" title="首页"><i class="fas fa-home"></i><span>首页</span></a><a class="card-menu-item" href="/categories/%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90/" title="机场推荐"><i class="fas fa-plane"></i><span>机场推荐</span></a><a class="card-menu-item" href="/categories/%E6%8A%80%E6%9C%AF%E7%A7%91%E6%99%AE/" title="技术科普"><i class="fas fa-book"></i><span>技术科普</span></a><a class="card-menu-item" href="/guide/" title="科学上网软件使用指南"><i class="fas fa-paper-plane"></i><span>科学上网软件使用指南</span></a><a class="card-menu-item" href="/tags/%E6%8E%A5%E7%A0%81/" title="接码平台"><i class="fas fa-sms"></i><span>接码平台</span></a><a class="card-menu-item" href="/tags/AI/" title="AI工具"><i class="fas fa-robot"></i><span>AI工具</span></a><a class="card-menu-item" href="/tags/%E6%B5%81%E5%AA%92%E4%BD%93/" title="流媒体账号"><i class="fas fa-play-circle"></i><span>流媒体账号</span></a></div></div></div></main><footer id="footer"><div class="footer-other"><div class="footer-copyright"></div><div class="footer_custom_text">&copy; 2026 August | <a href="/about/">关于我们</a> | <a href="http://t.me/JIAN6688" target="_blank">商务合作</a></div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="readmode" type="button" title="阅读模式"><i class="fas fa-book-open"></i></button><button id="darkmode" type="button" title="日间和夜间模式切换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside-config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button class="close" id="mobile-toc-button" type="button" title="目录"><i class="fas fa-list-ul"></i></button><button id="go-up" type="button" title="回到顶部"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js?v=5.5.4"></script><script src="/js/main.js?v=5.5.4"></script><div class="js-pjax"></div><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div></body></html>
