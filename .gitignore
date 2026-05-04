@@ -1,0 +1,24 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+
+# 根目录旧静态文件（已迁移到source/）
+/index.html
+/robots.txt
+/sitemap.xml
+/CNAME
+/2026
+/archives
+/categories
+/css
+/docs
+/guide
+/img
+/js
+/page
+/tags
+node_modules

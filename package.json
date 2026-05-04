@@ -1,0 +1,45 @@
+{
+  "name": "blog",
+  "dependencies": {
+    "hexo": "^7.3.0",
+    "hexo-cli": "^4.3.2",
+    "hexo-deployer-git": "^4.0.0",
+    "hexo-generator-archive": "^1.0.0",
+    "hexo-generator-category": "^1.0.0",
+    "hexo-generator-index": "^4.0.0",
+    "hexo-generator-sitemap": "^3.0.1",
+    "hexo-generator-tag": "^1.0.0",
+    "hexo-renderer-marked": "^2.0.0",
+    "hexo-renderer-pug": "^1.0.0",
+    "hexo-renderer-stylus": "^1.1.0",
+    "hexo-server": "^2.0.0",
+    "hexo-theme-butterfly": "^5.5.4"
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "hexo generate",
+    "clean": "hexo clean",
+    "server": "hexo server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amerdommi241-oss/.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/amerdommi241-oss/.github.io/issues"
+  },
+  "homepage": "https://github.com/amerdommi241-oss/.github.io#readme",
+  "hexo": {
+    "version": "7.3.0"
+  }
+}
