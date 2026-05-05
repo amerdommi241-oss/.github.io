@@ -25,7 +25,7 @@ sticky: 99999
 | 全球云 | 20元 120G/月 | [注册](https://haozevpn.gcvipaff.cc/#/?code=WRQJc2v4) |
 | 光速云 | 8.25元 59G/月 | [注册](https://kjlq01.gsyvipaff.cc/#/?code=b1OTkTeL) |
 | 瞬云机场 | 8.25元 59G/月(年付) | [注册](https://bbb.jichang.best/#/register?code=o4I4kToe) |
-| 寰宇云 | 7元 60G/月(年付+优惠码) | [注册](https://huanyuyunvip.com/register?code=K6h5VWw2) |
+| 寰宇云 | 7元 60G/月(年付+优惠码) | [注册](https://dashboard.huanyuyunvip.com/#/register?code=K6h5VWw2) |
 | 隐云 | 25元 150G/月 | [注册](https://wkacc.xyz/?code=711d7afb) |
 | Edge-X | 16.8元 100G/月 | [注册](https://edge-invite.com/#/register?code=73ienU2h) |
 | 奈云 | 10.6元 168G/月(年付) | [注册](http://6.vip.v2ny.me?path=register&code=A612DB2z) |
@@ -175,7 +175,7 @@ sticky: 99999
 
 ### 7. 寰宇云
 
-寰宇云官网地址：[huanyuyunvip.com](https://huanyuyunvip.com/register?code=K6h5VWw2)
+寰宇云官网地址：[dashboard.huanyuyunvip.com](https://dashboard.huanyuyunvip.com/#/register?code=K6h5VWw2)
 
 最便宜的订阅为 **限定年付小包 ¥89/年（使用优惠码 `KY78` 可享折扣，折合约 7 元/月）**。
 
@@ -194,7 +194,7 @@ sticky: 99999
 
 > 长期订阅优惠：1年付8折 · 2年付7折 · 3年付6折
 
-[👉 立即注册寰宇云](https://huanyuyunvip.com/register?code=K6h5VWw2)
+[👉 立即注册寰宇云](https://dashboard.huanyuyunvip.com/#/register?code=K6h5VWw2)
 
 ---
 
