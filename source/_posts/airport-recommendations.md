@@ -21,6 +21,7 @@ sticky: 99999
 |---------|---------|------|
 | 极连云 | 8元 60G/月 | [注册](https://haozevpn.jlyvipaff.com/#/?code=KUKfOY13) |
 | 光年梯 | 18元 110G/月 | [注册](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) |
+| 极速云 | 15.99元 1200G/月 | [注册](https://ask.xsccusm.com:8888/#/register?code=RENHYxqv) |
 | 飞猫云 | 12元 100G/月(年付) | [注册](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh) |
 | 全球云 | 20元 120G/月 | [注册](https://haozevpn.gcvipaff.cc/#/?code=WRQJc2v4) |
 | 光速云 | 8.25元 59G/月 | [注册](https://kjlq01.gsyvipaff.cc/#/?code=b1OTkTeL) |
@@ -81,7 +82,31 @@ sticky: 99999
 
 ---
 
-### 3. 飞猫云
+### 3. 极速云
+
+极速云官网地址：[jisuyun666.com](https://ask.xsccusm.com:8888/#/register?code=RENHYxqv)
+
+最便宜的订阅有 **15.99元 1200G/月**。
+
+极速云是一家高性价比专线机场，采用中转+直连高速节点架构，支持 GPT NF Tik 等流媒体全解锁，可解锁各主要国家流媒体平台。提供24小时在线客服，工单当日回复。套餐灵活，支持月付、年付及一次性不限时流量包，是大流量重度用户的优选之一。TG群组：@jisuyunchat8
+
+| 套餐 | 流量 | 价格 |
+|------|------|------|
+| 【限时经典】年付-800G | 800G/月 | ¥99/年付（折合约¥8.25/月）|
+| 月付-1200G | 1200G/月 | ¥15.99/月 |
+| 月付-1800G | 1800G/月 | ¥22/月 |
+| 月付-3500G | 3500G/月 | ¥39.99/月 |
+| 月付-6500G | 6500G/月 | ¥68/月 |
+| 月付-12000G | 12000G/月 | ¥99/月 |
+| 1000G-不限时间 | 1000G | ¥88/一次性 |
+| 2500G-不限时间 | 2500G | ¥168/一次性 |
+| 5000G-不限时间 | 5000G | ¥288/一次性 |
+
+[👉 立即注册极速云](https://ask.xsccusm.com:8888/#/register?code=RENHYxqv)
+
+---
+
+### 4. 飞猫云
 
 飞猫云官网地址：[flycatvipaff.cc](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh)
 
@@ -107,7 +132,7 @@ sticky: 99999
 
 ---
 
-### 4. 全球云
+### 5. 全球云
 
 全球云机场官网地址：[haozevpn.gcvipaff.cc](https://haozevpn.gcvipaff.cc/#/?code=WRQJc2v4)
 
@@ -126,7 +151,7 @@ sticky: 99999
 
 ---
 
-### 5. 光速云
+### 6. 光速云
 
 光速云官网地址：[kjlq01.gsyvipaff.cc](https://kjlq01.gsyvipaff.cc/#/?code=b1OTkTeL)
 
@@ -146,7 +171,7 @@ sticky: 99999
 
 ---
 
-### 6. 瞬云机场
+### 7. 瞬云机场
 
 瞬云机场官网地址：[syjccloud.com](https://bbb.jichang.best/#/register?code=o4I4kToe)
 
@@ -173,7 +198,7 @@ sticky: 99999
 
 ---
 
-### 7. 寰宇云
+### 8. 寰宇云
 
 寰宇云官网地址：[dashboard.huanyuyunvip.com](https://dashboard.huanyuyunvip.com/#/register?code=K6h5VWw2)
 
@@ -198,7 +223,7 @@ sticky: 99999
 
 ---
 
-### 8. 隐云
+### 9. 隐云
 
 隐云机场官网地址：[wkacc.xyz](https://wkacc.xyz/?code=711d7afb)
 
@@ -219,7 +244,7 @@ sticky: 99999
 
 ---
 
-### 9. Edge-X
+### 10. Edge-X
 
 Edge-X官网地址：[点击进入官网](https://edge-invite.com/#/register?code=73ienU2h)
 
@@ -237,7 +262,7 @@ Edge-X 机场是一家提供高品质线路的网络加速提供商，主要采�
 
 ---
 
-### 10. 奈云
+### 11. 奈云
 
 奈云机场官网地址：[6.vip.v2ny.me](http://6.vip.v2ny.me?path=register&code=A612DB2z)
 
@@ -256,7 +281,7 @@ Edge-X 机场是一家提供高品质线路的网络加速提供商，主要采�
 
 ---
 
-### 11. 山海机场
+### 12. 山海机场
 
 山海机场官网地址：[shanhai.sbs](https://shanhai.sbs/#/register?code=qVTbPfWP)
 
@@ -294,7 +319,7 @@ Edge-X 机场是一家提供高品质线路的网络加速提供商，主要采�
 
 ---
 
-### 12. lizione
+### 13. lizione
 
 lizione官网地址：[lizione.vip](https://lizione.vip?path=register&code=Wmf3jYMy)
 
@@ -313,7 +338,7 @@ lizione是一家提供优质线路的高性价比机场，采用优质线路架�
 
 ---
 
-### 13. 星岛梦
+### 14. 星岛梦
 
 星岛梦官网地址：[wuyou202001.xdmvipaff.cc](https://wuyou202001.xdmvipaff.cc/#/?code=olWCiAhj)
 
@@ -333,7 +358,7 @@ lizione是一家提供优质线路的高性价比机场，采用优质线路架�
 
 ---
 
-### 14. 哆啦A梦
+### 15. 哆啦A梦
 
 哆啦A梦官网地址：[yyds2-doraemon.site](https://store.yyds2-doraemon.site/login/register?invite_code=5VxQMw0k)
 
@@ -352,7 +377,7 @@ lizione是一家提供优质线路的高性价比机场，采用优质线路架�
 
 ---
 
-### 15. 大哥云
+### 16. 大哥云
 
 大哥云官网地址：[airportgo.org](https://airportgo.org/go.php)
 
@@ -371,7 +396,7 @@ lizione是一家提供优质线路的高性价比机场，采用优质线路架�
 
 ---
 
-### 16. 龙猫云
+### 17. 龙猫云
 
 龙猫云官网地址：[airportgo.org](https://airportgo.org/go.php)
 
@@ -390,7 +415,7 @@ lizione是一家提供优质线路的高性价比机场，采用优质线路架�
 
 ---
 
-### 17. 飞鸟机场（flyingbird）
+### 18. 飞鸟机场（flyingbird）
 
 飞鸟机场官网地址：[airportgo.org](https://airportgo.org/go.php)
 
@@ -409,7 +434,7 @@ lizione是一家提供优质线路的高性价比机场，采用优质线路架�
 
 ---
 
-### 18. 青云梯
+### 19. 青云梯
 
 青云梯官网地址：[airportgo.org](https://airportgo.org/go.php)
 
@@ -430,7 +455,7 @@ lizione是一家提供优质线路的高性价比机场，采用优质线路架�
 
 ---
 
-### 19. 花云机场 (FlowerCloud)
+### 20. 花云机场 (FlowerCloud)
 
 花云机场官网地址：[api-flowercloud.com](https://api-flowercloud.com/aff.php?aff=16018)
 
