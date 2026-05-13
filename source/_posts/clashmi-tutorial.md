@@ -4,7 +4,7 @@ date: 2026-03-29 10:30:00
 tags: [Clash Mi, 科学上网, 机场推荐, 客户端教程, 软件下载教程, 翻墙, 科学上网教程]
 categories: [软件下载教程]
 keywords: Clash Mi教程, Clash Mi下载, Mihomo内核, 科学上网, 代理配置
-description: "Clash Mi 是一款专注于高效分流与内核增强的桌面代理工具。它深度集成了 Mihomo (Clash Meta) 内核，为高级用户提供极致性能。"
+description: "Clash Mi 是一款专注于高效分流与内核增强的桌面代理工具。它深度集成了 Mihomo (Clash Meta) 内核，为高级用户提供极致性能。 什么是 Clash Mi？ Clash Mi 是一款基于 Mihomo（Clash Meta）核心 的代理客户端，界面简洁、操作直观，"
 ---
 
 ## 什么是 Clash Mi？

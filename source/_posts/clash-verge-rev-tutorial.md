@@ -4,7 +4,7 @@ date: 2026-03-29 10:16:32
 tags: [Clash Verge Rev, 科学上网, 机场推荐, 客户端教程, 软件下载教程, 翻墙, 科学上网教程]
 categories: [软件下载教程]
 keywords: Clash Verge Rev, Clash Verge Rev下载, Clash使用教程, 科学上网, 翻墙教程, Mihomo内核
-description: "Clash Verge Rev 是 Clash Verge 的延续版本，是一款基于 Tauri + Clash Meta（Mihomo）内核的桌面端 GUI 客户端。本教程为您详细介绍其安装与配置流程。"
+description: "Clash Verge Rev 是 Clash Verge 的延续版本，是一款基于 Tauri + Clash Meta（Mihomo）内核的桌面端 GUI 客户端。本教程为您详细介绍其安装与配置流程。 什么是 Clash Verge Rev？"
 ---
 
 ## 什么是 Clash Verge Rev？

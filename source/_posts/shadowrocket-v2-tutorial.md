@@ -4,7 +4,7 @@ date: 2026-03-29 10:50:00
 tags: [Shadowrocket, 小火箭, iOS翻墙, 科学上网, 客户端教程, 软件下载教程, 机场推荐, 翻墙, 科学上网教程]
 categories: [软件下载教程]
 keywords: Shadowrocket教程, 小火箭下载, iOS科学上网, 机场订阅导入, 翻墙APP
-description: 'Shadowrocket，俗称"小火箭"，是 iOS 平台上用户群体最大、上手最简单的代理软件。即使是完全的新手，也能在 3 分钟内完成配置。'
+description: "Shadowrocket，俗称\"小火箭\"，是 iOS 平台上用户群体最大、上手最简单的代理软件。即使是完全的新手，也能在 3 分钟内完成配置。 什么是 Shadowrocket (小火箭)？ Shadowrocket（俗称小火箭） 是一款运行于 iOS / iPadOS 平台的老牌代理客户端，"
 ---
 
 ## 什么是 Shadowrocket (小火箭)？

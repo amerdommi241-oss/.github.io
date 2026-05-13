@@ -4,7 +4,7 @@ date: 2026-03-29 10:35:00
 tags: [Clash Party, 科学上网, 机场推荐, 客户端教程, 软件下载教程, 翻墙, 科学上网教程]
 categories: [软件下载教程]
 keywords: Clash Party教程, Clash Party下载, 科学上网, 代理配置, 翻墙教程
-description: "Clash Party 是稳定可靠的 Clash 分支工具，适合追求极致稳定性的用户。本教程详细介绍订阅导入与代理配置流程。"
+description: "Clash Party 是稳定可靠的 Clash 分支工具，适合追求极致稳定性的用户。本教程详细介绍订阅导入与代理配置流程。 什么是 Clash Party？ Clash Party 是基于开源 Clash 项目深度定制的桌面端分支版。在瞬息万变的网络环境中，它坚持\"稳定大于一切\"的设计理念，"
 ---
 
 ## 什么是 Clash Party？

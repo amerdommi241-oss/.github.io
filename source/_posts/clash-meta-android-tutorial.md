@@ -4,7 +4,7 @@ date: 2026-03-29 10:40:00
 tags: [Clash Meta, Android, 科学上网, 机场推荐, 客户端教程, 软件下载教程, 翻墙, 科学上网教程]
 categories: [软件下载教程]
 keywords: Clash Meta Android教程, Mihomo Android教程, 安卓翻墙, 科学上网, 机场订阅
-description: "Clash Meta for Android 是目前安卓端最强大的 Clash 客户端，集成 Mihomo 内核，支持 VLESS、Reality、Hysteria2 等最新协议。本教程手把手带你完成配置。"
+description: "Clash Meta for Android 是目前安卓端最强大的 Clash 客户端，集成 Mihomo 内核，支持 VLESS、Reality、Hysteria2 等最新协议。本教程手把手带你完成配置。 什么是 Clash Meta for Android？"
 ---
 
 ## 什么是 Clash Meta for Android？

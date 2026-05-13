@@ -3,6 +3,7 @@ title: Midjourney 使用指南【2026年更新】：国内访问 + 共享账号 
 date: 2026-03-01 12:00:00
 tags: [AI工具, 科学上网, 机场推荐, 翻墙, 科学上网教程, Midjourney, AI绘画, 作图提示词]
 categories: [AI工具]
+description: "Midjourney 使用指南【2026年更新】：国内访问 + 共享账号 + 平替方案全攻略。Midjourney（MJ）是目前世界上最主流的 AI 图像生成工具，以画质精美、风格丰富、操作便捷著称，被设计师、插画师、广告人和创意工作者广泛使用。本文带你快速搞定访问方式和上手技巧。"
 ---
 
 Midjourney（MJ）是目前世界上最主流的 AI 图像生成工具，以**画质精美、风格丰富、操作便捷**著称，被设计师、插画师、广告人和创意工作者广泛使用。本文带你快速搞定访问方式和上手技巧。
@@ -223,15 +224,17 @@ AI 工具成品账号交易，Midjourney 独享号下单极速发货。
 
 ### 基础 Prompt 结构
 
-1
+```text
 /imagine prompt: [主体描述], [风格], [氛围], [技术参数]
+```
 
 
 **示例：**
 
 
-1
+```text
 /imagine prompt: a young woman walking in Tokyo street, cyberpunk style, neon lights, rainy night, cinematic lighting, 8K, --ar 16:9 --v 7
+```
 
 
 

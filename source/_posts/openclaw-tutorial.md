@@ -3,6 +3,7 @@ title: OpenClaw 从零到一搭建教学：手把手教你拥有专属 Telegram 
 date: 2026-03-01 12:00:00
 tags: [科学上网知识库, 科学上网, 机场推荐, 翻墙, 科学上网教程, OpenClaw教程, 开源客户端, 抓取节点]
 categories: [科学上网知识库]
+description: "OpenClaw 从零到一搭建教学：手把手教你拥有专属 Telegram AI 助手。如果你想把 AI 助手直接集成到 Telegram 或 Discord 中，告别频繁切换网页的烦恼，那么这篇教程正是为你准备的。我们将按照「环境准备 → 快速安装 → 核心配置 → 故障排查 → 安全加固」的路径，"
 ---
 
 如果你想把 AI 助手直接集成到 Telegram 或 Discord 中，告别频繁切换网页的烦恼，那么这篇教程正是为你准备的。我们将按照「环境准备 → 快速安装 → 核心配置 → 故障排查 → 安全加固」的路径，带你打造属于自己的高可用 AI 网关。
@@ -94,8 +95,9 @@ Telegram 服务需要稳定的代理环境。请确保你的代理软件正常�
 在终端执行以下命令，若返回 200 或 301/302，则说明网络链路正常：
 
 
-1
+```bash
 curl -I https://api.telegram.org
+```
 
 
 
@@ -108,10 +110,10 @@ curl -I https://api.telegram.org
 OpenClaw 要求 Node.js 版本 **>= 22**。请先检查版本：
 
 
-1
-2
+```bash
 node --version
 npm --version
+```
 
 
 
@@ -119,14 +121,16 @@ npm --version
 推荐使用官方提供的快速安装脚本：
 
 
-1
+```bash
 curl -fsSL https://openclaw.ai/install.sh | bash
+```
 
 安装完成后，验证是否成功：
 
 
-1
+```bash
 openclaw --version
+```
 
 
 
@@ -134,8 +138,9 @@ openclaw --version
 为了保证服务后台常驻且重启自启，请运行：
 
 
-1
+```bash
 openclaw onboard --install-daemon
+```
 
 
 
@@ -210,20 +215,19 @@ openclaw onboard --install-daemon
 根据你的本地代理端口（如 7890），编辑 shell 配置文件（如 ~/.zshrc 或 ~/.bashrc）：
 
 
-1
-2
-3
+```bash
 export http_proxy=http://127.0.0.1:7890
 export https_proxy=http://127.0.0.1:7890
 export all_proxy=socks5://127.0.0.1:7890
+```
 
 生效并重启服务：
 
 
-1
-2
+```bash
 source ~/.zshrc
 openclaw restart
+```
 
 
 

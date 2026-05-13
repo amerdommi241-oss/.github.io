@@ -4,7 +4,7 @@ date: 2026-03-29 10:55:00
 tags: [Quantumult X, 圈X, iOS翻墙, 科学上网, 机场推荐, 客户端教程, 软件下载教程, 翻墙, 科学上网教程]
 categories: [软件下载教程]
 keywords: Quantumult X教程, 圈X使用教程, iOS科学上网, 高阶代理, 规则重写
-description: "Quantumult X（圈X）是 iOS 平台上备受极客推崇的高阶代理工具，支持强大的重写规则和脚本功能。本教程详细介绍订阅导入与代理配置流程。"
+description: "Quantumult X（圈X）是 iOS 平台上备受极客推崇的高阶代理工具，支持强大的重写规则和脚本功能。本教程详细介绍订阅导入与代理配置流程。 什么是 Quantumult X (圈X)？ Quantumult X（简称 QX 或 圈X）是一款在 iOS 苹果生态内备受极客推崇的代理利器。"
 ---
 
 ## 什么是 Quantumult X (圈X)？

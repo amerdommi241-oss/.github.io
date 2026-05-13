@@ -3,6 +3,7 @@ title: ChatGPT 镜像网站完全上手指南【2026年持续更新】
 date: 2026-03-01 12:00:00
 tags: [AI工具, 科学上网, 机场推荐, 翻墙, 科学上网教程, ChatGPT, 国内直连镜像, 免费AI]
 categories: [AI工具]
+description: "ChatGPT 镜像网站完全上手指南【2026年持续更新】。什么是 ChatGPT 镜像网站？ ChatGPT 镜像网站（也称 ChatGPT 镜像站）是指通过技术手段，将 OpenAI 的 ChatGPT 服务部署在国内可访问的服务器上，为用户提供无需翻墙即可使用的 GPT 模型访问通道。"
 ---
 
 ## 什么是 ChatGPT 镜像网站？

@@ -4,7 +4,7 @@ date: 2026-03-29 10:20:00
 tags: [v2rayN, 科学上网, 机场推荐, 客户端教程, 软件下载教程, 翻墙, 科学上网教程]
 categories: [软件下载教程]
 keywords: v2rayN教程, v2rayN下载, VLESS, VMESS, 科学上网, Windows代理工具
-description: "v2rayN 是 Windows 平台上最经典、最全能的代理客户端之一。它支持多种协议，资源占用极低。本教程带您从下载到配置一键通关。"
+description: "v2rayN 是 Windows 平台上最经典、最全能的代理客户端之一。它支持多种协议，资源占用极低。本教程带您从下载到配置一键通关。 什么是 v2rayN？ v2rayN 是一款运行在 Windows 系统下的代理客户端，基于 v2ray / Xray / sing-box 内核开发，"
 ---
 
 ## 什么是 v2rayN？

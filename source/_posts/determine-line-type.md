@@ -3,6 +3,7 @@ title: 如何判断一个机场使用的真实线路类型（IPLC／IEPL、CN2�
 date: 2026-03-01 12:00:00
 tags: [科学上网知识库, 科学上网, 机场推荐, 翻墙, 科学上网教程, 线路鉴别, BGP跨境, 原生IP]
 categories: [科学上网知识库]
+description: "如何判断一个机场使用的真实线路类型（IPLC／IEPL、CN2、BGP等）。要准确判断一个机场真实使用的线路类型，不能仅仅听信商家的宣传文案。我们需要通过信息核实、技术检测与实际体验来进行多维度交叉验证。本文将按“从简单到专业”的顺序，为您提供一套切实可行的判断方法。 一、基础判断：官方信息与用户反馈 1."
 ---
 
 要准确判断一个机场真实使用的线路类型，不能仅仅听信商家的宣传文案。我们需要通过**信息核实**、**技术检测**与**实际体验**来进行多维度交叉验证。本文将按“从简单到专业”的顺序，为您提供一套切实可行的判断方法。
@@ -38,17 +39,13 @@ categories: [科学上网知识库]
 
 使用 tracert（Windows）或 traceroute（Linux/macOS）命令行工具，观察数据包的传输路径：
 
-
-1
-2
-3
-4
-5
+```bash
 # Windows
 tracert your-server.com
 
 # macOS / Linux
 traceroute your-server.com
+```
 
 
 
@@ -80,9 +77,9 @@ traceroute your-server.com
 
 大家都知的高质量 CN2 线路，其对应的 ASN 为 AS4809，而普通的电信 163 网络一般为 AS4134。您可以使用以下命令进行 ASN 查看：
 
-
-1
+```bash
 whois -h whois.radb.net YOUR_IP | grep origin
+```
 
 
 如果您的电脑没有安装 whois，也完全可以直接使用在线查询工具 [IPWHOIS](https://ipwhois.io/) 来获取线路系统的 ASN 信息。

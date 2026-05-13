@@ -4,7 +4,7 @@ date: 2026-03-29 10:45:00
 tags: [Nekobox, 猫盒, Android, 科学上网, 机场推荐, 客户端教程, 软件下载教程, 翻墙, 科学上网教程]
 categories: [软件下载教程]
 keywords: Nekobox教程, 猫盒使用教程, 安卓翻墙, sing-box内核, 科学上网
-description: "Nekobox（猫盒）是基于 sing-box 核心的安卓全能代理客户端，支持几乎所有现代代理协议。本教程详细介绍订阅导入与代理配置流程。"
+description: "Nekobox（猫盒）是基于 sing-box 核心的安卓全能代理客户端，支持几乎所有现代代理协议。本教程详细介绍订阅导入与代理配置流程。 什么是 Nekobox (猫盒)？ Nekobox，因其独特的猫耳图标被广大网友亲切地称为 \"猫盒\"。它是一款基于 sing-box 核心开发的开源代理客户端，"
 ---
 
 ## 什么是 Nekobox (猫盒)？

@@ -4,7 +4,7 @@ date: 2026-03-29 10:25:00
 tags: [Flclash, 科学上网, 机场推荐, 客户端教程, 软件下载教程, 翻墙, 科学上网教程]
 categories: [软件下载教程]
 keywords: Flclash教程, Flclash下载, Flutter代理客户端, 科学上网, 跨平台翻墙
-description: "Flclash 是一款基于 Flutter 的全新跨平台 Clash 客户端，支持 Windows、macOS、Linux 和 Android 多系统。本教程带您完成从下载到配置的全流程。"
+description: "Flclash 是一款基于 Flutter 的全新跨平台 Clash 客户端，支持 Windows、macOS、Linux 和 Android 多系统。本教程带您完成从下载到配置的全流程。 什么是 Flclash？ Flclash 是一款极具现代感的开源代理工具。它采用了 Flutter 技术开发，"
 ---
 
 ## 什么是 Flclash？
