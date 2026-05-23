@@ -13,7 +13,8 @@ case globalPageType
 
 - var isSubtitle = config.subtitle ? ' - ' + config.subtitle : ''
 - var tabTitle = globalPageType === 'home' || !pageTitle ? config.title + isSubtitle : pageTitle + ' | ' + config.title
-- if (page.current > 1) tabTitle += ' - 第' + page.current + '页'
+- if (page.current > 1) tabTitle = pageTitle ? (pageTitle + ' - 第' + page.current + '页 | ' + config.title) : (config.title + ' - 第' + page.current + '页')
+- if (globalPageType === 'archive' && !page.tag && !page.category) tabTitle = ('文章归档 | ' + config.title)
 - var pageAuthor = config.email ? config.author + ',' + config.email : config.author
 - var pageCopyright = config.copyright || config.author
 - var themeColorLight = theme.theme_color && theme.theme_color.enable && theme.theme_color.meta_theme_color_light || '#ffffff'

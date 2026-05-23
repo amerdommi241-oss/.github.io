@@ -2,10 +2,10 @@ if theme.Open_Graph_meta.enable
   -
     const coverVal = page.cover_type === 'img' ? page.cover : theme.avatar.img
     let desc = page.description || page.content || page.title || config.description
-    if (globalPageType === 'tag') desc = '关于标签 ' + page.tag + ' 的文章和内容：' + config.description
-    else if (globalPageType === 'category') desc = '关于分类 ' + page.category + ' 的文章和内容：' + config.description
-    else if (globalPageType === 'archive') desc = '文章归档 ' + (page.year ? (page.year + '年' + (page.month ? page.month + '月' : '')) : '') + '：' + config.description
-    if (page.current > 1) desc = desc + ' (第' + page.current + '页)'
+    if (globalPageType === 'tag') desc = '关于标签「' + page.tag + '」的文章与内容：' + config.description
+    else if (globalPageType === 'category') desc = '分类「' + page.category + '」相关教程与评测：' + config.description
+    else if (globalPageType === 'archive') desc = '所有文章归档列表' + (page.year ? '（' + page.year + '年' + (page.month ? page.month + '月' : '') + '）' : '') + '：' + config.description
+    if (page.current > 1) desc = config.description + '（第' + page.current + '页）'
     let ogOption = Object.assign({
       type: globalPageType === 'post' ? 'article' : 'website',
       image: coverVal ? full_url_for(coverVal) : '',
@@ -17,10 +17,10 @@ if theme.Open_Graph_meta.enable
   != open_graph(ogOption)
 else
   - let description = page.description || page.content || page.title || config.description
-  - if (globalPageType === 'tag') description = '关于标签 ' + page.tag + ' 的文章和内容：' + config.description
-  - else if (globalPageType === 'category') description = '关于分类 ' + page.category + ' 的文章和内容：' + config.description
-  - else if (globalPageType === 'archive') description = '文章归档 ' + (page.year ? (page.year + '年' + (page.month ? page.month + '月' : '')) : '') + '：' + config.description
-  - if (page.current > 1) description = description + ' (第' + page.current + '页)'
+  - if (globalPageType === 'tag') description = '关于标签「' + page.tag + '」的文章与内容：' + config.description
+  - else if (globalPageType === 'category') description = '分类「' + page.category + '」相关教程与评测：' + config.description
+  - else if (globalPageType === 'archive') description = '所有文章归档列表' + (page.year ? '（' + page.year + '年' + (page.month ? page.month + '月' : '') + '）' : '') + '：' + config.description
+  - if (page.current > 1) description = config.description + '（第' + page.current + '页）'
   if description
     meta(name="description" content=truncate(description, 150))
 
