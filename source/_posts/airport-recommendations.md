@@ -21,7 +21,7 @@ sticky: 99999
 |---------|---------|------|
 | <font color="red">极连云</font> | 8元 60G/月 | [注册](https://haozevpn.jlyvipaff.com/#/?code=KUKfOY13) |
 | <font color="red">光年梯</font> | 7.42元 59G/月(年付) | [注册](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) |
-| <font color="red">极速云</font> | 15.99元 1200G/月 | [注册](https://ask.xsccusm.com:8888/#/register?code=RENHYxqv) |
+| <font color="red">极速云</font> | 15.99元 1200G/月 | [注册](https://tg.sintotgch.com/#/register?code=RENHYxqv) |
 | 山水云 | 7.33元 64G/月(年付) | [注册](https://ss2.byvvcsx.com/#/register?code=jkziWeb8) |
 | 秒秒云 | 14元 128G/月 | [注册](https://dl1.mmy8.com/#/register?code=g3bq7bpK) |
 | 飞猫云 | 12元 100G/月(年付) | [注册](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh) |
@@ -89,7 +89,7 @@ sticky: 99999
 
 ### 3. 极速云
 
-极速云官网地址：[jisuyun666.com](https://ask.xsccusm.com:8888/#/register?code=RENHYxqv)
+极速云官网地址：[jisuyun666.com](https://tg.sintotgch.com/#/register?code=RENHYxqv)
 
 最便宜的订阅有 **15.99元 1200G/月**。
 
@@ -107,7 +107,7 @@ sticky: 99999
 | 2500G-不限时间 | 2500G | ¥168/一次性 |
 | 5000G-不限时间 | 5000G | ¥288/一次性 |
 
-[👉 立即注册极速云](https://ask.xsccusm.com:8888/#/register?code=RENHYxqv)
+[👉 立即注册极速云](https://tg.sintotgch.com/#/register?code=RENHYxqv)
 
 ---
 
