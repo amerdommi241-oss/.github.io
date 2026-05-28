@@ -1,5 +1,5 @@
 ---
-title: Shadowrocket (小火箭) 使用教程：iOS 苹果设备必装科学上网神器
+title: 苹果iOS机场客户端推荐：Shadowrocket (小火箭) 2026节点订阅与配置教程
 date: 2026-03-29 10:50:00
 tags: [Shadowrocket, 小火箭, iOS翻墙, 科学上网, 客户端教程, 软件下载教程, 机场推荐, 翻墙, 科学上网教程]
 categories: [软件下载教程]
