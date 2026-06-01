@@ -30,6 +30,7 @@ sticky: 99999
 | 瞬云机场 | 8.25元 59G/月(年付) | [注册](https://ccc.jichang.best/#/register?code=o4I4kToe) |
 | 寰宇云 | 7元 60G/月(年付+优惠码) | [注册](https://vip3.huanyuyunbest.com/#/register?code=K6h5VWw2) |
 | Edge-X | 16.8元 100G/月 | [注册](https://edge-invite.com/#/register?code=73ienU2h) |
+| 边界云 | 12.33元 50G/月(年付) | [注册](https://www.lvpn.cc/r/6UQDZT) |
 | 可达加速器 | 10元 100G/月 | [注册](https://1.mkd997.com/?page=register&code=5KnBzRqS) |
 | 迅达VPN | 15元 150G/月 | [注册](https://sulianproxy.com/register?code=lfITU4zy) |
 | 奈云 | 10.6元 168G/月(年付) | [注册](http://6.vip.v2ny.me?path=register&code=A612DB2z) |
@@ -293,7 +294,28 @@ Edge-X 机场是一家提供高品质线路的网络加速提供商，主要采�
 
 ---
 
-### 12. 可达加速器
+### 12. 边界云
+
+边界云官网地址：[lvpn.cc](https://www.lvpn.cc/r/6UQDZT)（优惠码：**zevpn**）
+
+最便宜的订阅有 **12.33元 50G/月（Lite年付，¥148/年）**。
+
+边界云是一家专注于高质量 IEPL 专线的机场服务商，提供 50+ 全球节点，支持 UDP，最高速度 1000Mbps（Pro 套餐），全面解锁 Netflix、Hulu 等主流流媒体平台。所有套餐均提供 3 天无理由全额退款保证，企业级专线套餐还具备高峰期稳定优化，适合有稳定速度需求的用户。使用优惠码 **zevpn** 可享受折扣优惠。
+
+| 套餐 | 流量 | 价格 | 付费方式 | 特点 |
+|------|------|------|--------|------|
+| Mini | 50G/月 | 15元/月 | 月付 | 最高500Mbps，主流媒体支持 |
+| Lite | 50G/月 | 12.33元/月 | 年付¥148 | 最高1000Mbps，Netflix/Hulu解锁 |
+| Pro Semi-Annual | 100G/月 | 24.67元/月 | 半年付¥148 | IEPL企业级专线，高峰期稳定优化 |
+| Pro | 100G/月 | 24.83元/月 | 年付¥298 | IEPL企业级专线，Netflix/TVB/Hulu解锁 |
+
+*📌 优惠码 **zevpn** 下单可享受额外折扣，所有套餐支持3天无理由全额退款。*
+
+[👉 立即注册边界云](https://www.lvpn.cc/r/6UQDZT)
+
+---
+
+### 13. 可达加速器
 
 可达加速器官网地址：[mkd997.com](https://1.mkd997.com/?page=register&code=5KnBzRqS)
 
@@ -311,7 +333,7 @@ Edge-X 机场是一家提供高品质线路的网络加速提供商，主要采�
 
 ---
 
-### 13. 迅达VPN
+### 14. 迅达VPN
 
 迅达VPN官网地址：[sulianproxy.com](https://sulianproxy.com/register?code=lfITU4zy)
 
@@ -338,7 +360,7 @@ Edge-X 机场是一家提供高品质线路的网络加速提供商，主要采�
 
 ---
 
-### 14. 奈云
+### 15. 奈云
 
 奈云机场官网地址：[6.vip.v2ny.me](http://6.vip.v2ny.me?path=register&code=A612DB2z)
 
@@ -357,7 +379,7 @@ Edge-X 机场是一家提供高品质线路的网络加速提供商，主要采�
 
 ---
 
-### 15. 隐云
+### 16. 隐云
 
 隐云机场官网地址：[wkacc.xyz](https://wkacc.xyz/?code=711d7afb)
 
@@ -378,7 +400,7 @@ Edge-X 机场是一家提供高品质线路的网络加速提供商，主要采�
 
 ---
 
-### 16. 山海机场
+### 17. 山海机场
 
 山海机场官网地址：[shanhai.sbs](https://shanhai.sbs/#/register?code=qVTbPfWP)
 
@@ -416,7 +438,7 @@ Edge-X 机场是一家提供高品质线路的网络加速提供商，主要采�
 
 ---
 
-### 17. lizione
+### 18. lizione
 
 lizione官网地址：[lizione.vip](https://lizione.vip?path=register&code=Wmf3jYMy)
 
@@ -435,7 +457,7 @@ lizione是一家提供优质线路的高性价比机场，采用优质线路架�
 
 ---
 
-### 18. 星岛梦
+### 19. 星岛梦
 
 星岛梦官网地址：[wuyou202001.xdmvipaff.cc](https://wuyou202001.xdmvipaff.cc/#/?code=olWCiAhj)
 
@@ -455,7 +477,7 @@ lizione是一家提供优质线路的高性价比机场，采用优质线路架�
 
 ---
 
-### 19. 哆啦A梦
+### 20. 哆啦A梦
 
 哆啦A梦官网地址：[yyds2-doraemon.site](https://store.yyds2-doraemon.site/login/register?invite_code=5VxQMw0k)
 
@@ -474,7 +496,7 @@ lizione是一家提供优质线路的高性价比机场，采用优质线路架�
 
 ---
 
-### 20. 大哥云
+### 21. 大哥云
 
 大哥云官网地址：[airportgo.org](https://airportgo.org/go.php)
 
@@ -493,7 +515,7 @@ lizione是一家提供优质线路的高性价比机场，采用优质线路架�
 
 ---
 
-### 21. 龙猫云
+### 22. 龙猫云
 
 龙猫云官网地址：[airportgo.org](https://airportgo.org/go.php)
 
@@ -512,7 +534,7 @@ lizione是一家提供优质线路的高性价比机场，采用优质线路架�
 
 ---
 
-### 22. 飞鸟机场（flyingbird）
+### 23. 飞鸟机场（flyingbird）
 
 飞鸟机场官网地址：[airportgo.org](https://airportgo.org/go.php)
 
@@ -531,7 +553,7 @@ lizione是一家提供优质线路的高性价比机场，采用优质线路架�
 
 ---
 
-### 23. 青云梯
+### 24. 青云梯
 
 青云梯官网地址：[airportgo.org](https://airportgo.org/go.php)
 
@@ -552,7 +574,7 @@ lizione是一家提供优质线路的高性价比机场，采用优质线路架�
 
 ---
 
-### 24. 花云机场 (FlowerCloud)
+### 25. 花云机场 (FlowerCloud)
 
 花云机场官网地址：[api-flowercloud.com](https://api-flowercloud.com/aff.php?aff=16018)
 
