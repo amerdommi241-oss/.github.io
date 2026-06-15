@@ -1,5 +1,5 @@
 ---
-title: 苹果iOS机场客户端推荐：Shadowrocket (小火箭) 2026节点订阅与配置教程
+title: iOS小火箭配置教程：2026最新 Shadowrocket 节点订阅与分流规则保姆级指南
 date: 2026-03-29 10:50:00
 tags: [Shadowrocket, 小火箭, iOS翻墙, 科学上网, 客户端教程, 软件下载教程, 机场推荐, 翻墙, 科学上网教程]
 categories: [软件下载教程]

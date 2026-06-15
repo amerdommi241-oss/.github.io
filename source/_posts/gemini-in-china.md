@@ -1,5 +1,5 @@
 ---
-title: 机场推荐应用教程：Gemini在中国怎么用？2026科学上网与账号注册指南
+title: Gemini在中国大陆怎么使用？2026最新谷歌AI科学上网与账号注册保姆级教程
 date: 2026-03-01 12:00:00
 tags: [AI工具, 科学上网, 机场推荐, 翻墙, 科学上网教程, Gemini, Google AI, 国内体验]
 categories: [AI工具]

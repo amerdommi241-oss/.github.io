@@ -1,5 +1,5 @@
 ---
-title: 机场推荐进阶：OpenClaw 搭建教学，教你利用翻墙网络打造 Telegram AI 助手
+title: 如何搭建OpenClaw？利用翻墙网络与API打造国内专属Telegram AI助手教程
 date: 2026-03-01 12:00:00
 tags: [科学上网知识库, 科学上网, 机场推荐, 翻墙, 科学上网教程, OpenClaw教程, 开源客户端, 抓取节点]
 categories: [科学上网知识库]

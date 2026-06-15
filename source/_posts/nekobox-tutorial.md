@@ -1,5 +1,5 @@
 ---
-title: 安卓好用机场客户端推荐：Nekobox (猫盒) 配置与代理订阅使用教程
+title: 安卓Nekobox(猫盒)怎么配置？2026最新 Nekobox 订阅与多协议使用教程
 date: 2026-03-29 10:45:00
 tags: [Nekobox, 猫盒, Android, 科学上网, 机场推荐, 客户端教程, 软件下载教程, 翻墙, 科学上网教程]
 categories: [软件下载教程]

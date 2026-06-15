@@ -1,5 +1,5 @@
 ---
-title: 高阶苹果机场客户端推荐：Quantumult X (圈X) 2026最新配置使用教程
+title: iOS圈X配置教程：2026最新 Quantumult X 节点订阅与重写分流规则指南
 date: 2026-03-29 10:55:00
 tags: [Quantumult X, 圈X, iOS翻墙, 科学上网, 机场推荐, 客户端教程, 软件下载教程, 翻墙, 科学上网教程]
 categories: [软件下载教程]

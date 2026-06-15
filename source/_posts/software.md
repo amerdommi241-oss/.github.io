@@ -1,5 +1,5 @@
 ---
-title: 机场推荐翻墙软件：2026常用客户端下载大全与订阅配置新手教程
+title: 2026最新科学上网客户端下载汇总：Windows/Mac/Android/iOS常用翻墙软件下载
 date: 2026-03-29 10:00:00
 tags: [默认分类, 科学上网, 机场推荐, 翻墙, 科学上网教程, Clash Verge, Shadowrocket, 软件下载, 软件下载教程]
 categories: [软件下载教程]
