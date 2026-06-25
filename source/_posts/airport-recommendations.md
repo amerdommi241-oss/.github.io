@@ -21,11 +21,11 @@ sticky: 99999
 |---------|---------|------|
 | <font color="red">极连云</font> | 8元 60G/月 | [注册](https://haozevpn.jlyvipaff.com/#/?code=KUKfOY13) |
 | <font color="red">光年梯</font> | 7.42元 59G/月(年付) | [注册](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) |
-| <font color="red">锦云</font> | 6元 50G/月 | [注册](https://w2.whengdl.com/#/register?code=BIGc8qrQ) |
+| <font color="red">飞猫云</font> | 7元 50G/月(年付) | [注册](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh) |
+| 锦云 | 6元 50G/月 | [注册](https://w2.whengdl.com/#/register?code=BIGc8qrQ) |
 | 极速云 | 15.99元 1200G/月 | [注册](https://tg.sintotgch.com/#/register?code=RENHYxqv) |
 | 山水云 | 7.33元 64G/月(年付) | [注册](https://ss2.byvvcsx.com/#/register?code=jkziWeb8) |
 | 秒秒云 | 14元 128G/月 | [注册](https://mdl3.mxjcbg.com/#/register?code=g3bq7bpK) |
-| 飞猫云 | 12元 100G/月(年付) | [注册](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh) |
 | 全球云 | 20元 120G/月 | [注册](https://haozevpn.gcvipaff.cc/#/?code=WRQJc2v4) |
 | 光速云 | 8.25元 59G/月 | [注册](https://kjlq01.gsyvipaff.cc/#/?code=b1OTkTeL) |
 | 瞬云机场 | 8.25元 59G/月(年付) | [注册](https://ccc.jichang.best/#/register?code=o4I4kToe) |
@@ -89,7 +89,36 @@ sticky: 99999
 
 ---
 
-### 3. 锦云
+### 3. 飞猫云
+
+飞猫云官网地址：[flycatvipaff.cc](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh)
+
+最便宜的订阅有 **7元 50G/月（学生版年付折算，约¥84/年）**。
+
+飞猫云是一家采用全 IPLC 专线架构的高性能机场，提供最高 2.5Gbps 的稳定速率。全节点 x1 倍率，高峰时段不降速，原生 IP 线路轻松解锁 Netflix、Disney+、ChatGPT、TikTok 等服务。支持多端同时登录使用，不限制设备连接数量。通过智能流量分配与路由优化，为用户提供极其顺畅且智能的上网体验。
+
+**特色功能**
+
+* 全 IPLC 专线网络，提供最高 2.5Gbps 稳定速率
+* 节点一律 x1 倍率，流量消耗真实透明，高峰不限速
+* 原生 IP 线路，完美解锁 Netflix、Disney+、ChatGPT、TikTok 等服务
+* 不限制设备连接数量，多端同时在线无压力
+* 智能流量分配与路由由优化，让访问更顺畅更智能
+* 长期有效优惠：年付 8 折，两年付 7 折，三年付 6 折
+
+| 套餐名称 | 月流量 | 月付价格 | 年付价格 | 折合月费 |
+| :--- | :--- | :--- | :--- | :--- |
+| **飞猫·学生版** | 50G/月 | — | ¥ 84.00/年 | ≈ ¥ 7.0 |
+| **飞猫·星耀版** | 150G/月 | ¥ 25.00 | — | ¥ 25.0 |
+| **飞猫·星环版** | 300G/月 | ¥ 45.00 | — | ¥ 45.0 |
+
+> 学生版适合低流量用户，年费小包每月自动刷新。星耀版及以上用户购买日起每30天自动刷新流量。
+
+[👉 立即注册飞猫云](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh)
+
+---
+
+### 4. 锦云
 
 锦云官网地址：[whengdl.com](https://w2.whengdl.com/#/register?code=BIGc8qrQ)
 
@@ -116,7 +145,7 @@ sticky: 99999
 
 ---
 
-### 4. 极速云
+### 5. 极速云
 
 极速云官网地址：[jisuyun666.com](https://tg.sintotgch.com/#/register?code=RENHYxqv)
 
@@ -140,7 +169,7 @@ sticky: 99999
 
 ---
 
-### 5. 山水云
+### 6. 山水云
 
 山水云官网地址：[ss2.byvvcsx.com](https://ss2.byvvcsx.com/#/register?code=jkziWeb8)
 
@@ -164,7 +193,7 @@ sticky: 99999
 
 ---
 
-### 6. 秒秒云
+### 7. 秒秒云
 
 秒秒云官网地址：[mxjcbg.com](https://mdl3.mxjcbg.com/#/register?code=g3bq7bpK)
 
@@ -184,32 +213,6 @@ sticky: 99999
 | 不限时300G | 300G永久 | ¥268/一次性 | 永久有效 |
 
 [👉 立即注册秒秒云](https://mdl3.mxjcbg.com/#/register?code=g3bq7bpK)
-
----
-
-### 7. 飞猫云
-
-飞猫云官网地址：[flycatvipaff.cc](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh)
-
-最便宜的订阅有 **12元 100G/月 (年付折算)**。
-
-飞猫云是一家采用全 IPLC 专线架构的高性能机场，提供最高 2.5Gbps 的稳定速率。全节点 x1 倍率，高峰时段不降速，原生 IP 线路轻松解锁 Netflix、Disney+、ChatGPT、TikTok 等服务。支持多端同时登录使用，不限制设备连接数量。通过智能流量分配与路由优化，为用户提供极其顺畅且智能的上网体验。
-
-**特色功能**
-
-* 全 IPLC 专线网络，提供最高 2.5Gbps 稳定速率
-* 节点一律 x1 倍率，流量消耗真实透明，高峰不限速
-* 原生 IP 线路，完美解锁流媒体及 AI 平台
-* 不限制设备连接数量，多端同时在线无压力
-* 长期有效优惠：年付 8 折，两年付 7 折，三年付 6 折
-
-| 套餐名称 | 流量 | 月付价格 | 年付价格 | 折合月费 |
-| :--- | :--- | :--- | :--- | :--- |
-| **星耀版** | 100G/月 | ¥ 15.00 | ¥ 145.00 | ≈ ¥ 12.0 |
-| **星环版** | 200G/月 | ¥ 30.00 | ¥ 240.00 | ≈ ¥ 20.0 |
-| **银河版** | 500G/月 | ¥ 55.00 | ¥ 465.00 | ≈ ¥ 38.7 |
-
-[👉 立即注册飞猫云](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh)
 
 ---
 
