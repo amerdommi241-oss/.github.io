@@ -21,7 +21,8 @@ sticky: 99999
 |---------|---------|------|
 | <font color="red">极连云</font> | 8元 60G/月 | [注册](https://haozevpn.jlyvipaff.com/#/?code=KUKfOY13) |
 | <font color="red">光年梯</font> | 7.42元 59G/月(年付) | [注册](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) |
-| <font color="red">飞猫云</font> | 7元 50G/月(年付) | [注册](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh) |
+| <font color="red">边界云</font> | 12.33元 50G/月(年付) | [注册](https://www.lvpn.cc/r/6UQDZT) |
+| 飞猫云 | 7元 50G/月(年付) | [注册](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh) |
 | 可信云 | 8元 60G/月(年付) | [注册](https://varnexa.kexintttt.xyz/#/register?code=zcjBlIde) |
 | 速界 | 7.5元 50G/月(年付) | [注册](https://trevona.speed-world.cc/#/register?code=r7IOqoY7) |
 | 快狸 | 10元 30G/月(年付) | [注册](https://varnexa.kuailitttt.homes/#/register?code=G56QwHto) |
@@ -32,7 +33,6 @@ sticky: 99999
 | 全球云 | 20元 120G/月 | [注册](https://haozevpn.gcvipaff.cc/#/?code=WRQJc2v4) |
 | 瞬云机场 | 8.25元 59G/月(年付) | [注册](https://ccc.jichang.best/#/register?code=o4I4kToe) |
 | 寰宇云 | 7元 60G/月(年付+优惠码) | [注册](https://vip3.huanyuyunbest.com/#/register?code=K6h5VWw2) |
-| 边界云 | 12.33元 50G/月(年付) | [注册](https://www.lvpn.cc/r/6UQDZT) |
 | 影子 | 18.8元 150G/月 | [注册](https://www.yingzi01.com/register?code=X7XPN1cS) |
 | 拼好连（原Runway Cloud） | 9.9元 100G/月 | [注册](https://sxzofrnamc.runwayhz.com/#/register?code=A63zaSvx) |
 | 99吧 | 7.5元 66G/月(年付+优惠码) | [注册](https://99vpn.bar/#/register?code=Uni7IOJh) |
@@ -97,7 +97,28 @@ sticky: 99999
 
 ---
 
-### 3. 飞猫云
+### 3. 边界云
+
+边界云官网地址：[lvpn.cc](https://www.lvpn.cc/r/6UQDZT)（优惠码：**zevpn**）
+
+最便宜的订阅有 **12.33元 50G/月（Lite年付，¥148/年）**。
+
+边界云是一家专注于高质量 IEPL 专线的机场服务商，提供 50+ 全球节点，支持 UDP，最高速度 1000Mbps（Pro 套餐），全面解锁 Netflix、Hulu 等主流流媒体平台。所有套餐均提供 3 天无理由全额退款保证，企业级专线套餐还具备高峰期稳定优化，适合有稳定速度需求的用户。使用优惠码 **zevpn** 可享受折扣优惠。
+
+| 套餐 | 流量 | 价格 | 付费方式 | 特点 |
+|------|------|------|--------|------|
+| Mini | 50G/月 | 15元/月 | 月付 | 最高500Mbps，主流媒体支持 |
+| Lite | 50G/月 | 12.33元/月 | 年付¥148 | 最高1000Mbps，Netflix/Hulu解锁 |
+| Pro Semi-Annual | 100G/月 | 24.67元/月 | 半年付¥148 | IEPL企业级专线，高峰期稳定优化 |
+| Pro | 100G/月 | 24.83元/月 | 年付¥298 | IEPL企业级专线，Netflix/TVB/Hulu解锁 |
+
+*📌 优惠码 **zevpn** 下单可享受额外折扣，所有套餐支持3天无理由全额退款。*
+
+[👉 立即注册边界云](https://www.lvpn.cc/r/6UQDZT)
+
+---
+
+### 4. 飞猫云
 
 飞猫云官网地址：[flycatvipaff.cc](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh)
 
@@ -126,7 +147,7 @@ sticky: 99999
 
 ---
 
-### 4. 可信云
+### 5. 可信云
 
 可信云官网地址：[kexintttt.xyz](https://varnexa.kexintttt.xyz/#/register?code=zcjBlIde)
 
@@ -144,7 +165,7 @@ sticky: 99999
 
 ---
 
-### 5. 速界
+### 6. 速界
 
 速界官网地址：[speed-world.cc](https://trevona.speed-world.cc/#/register?code=r7IOqoY7)
 
@@ -162,7 +183,7 @@ sticky: 99999
 
 ---
 
-### 6. 快狸
+### 7. 快狸
 
 快狸官网地址：[kuailitttt.homes](https://varnexa.kuailitttt.homes/#/register?code=G56QwHto)
 
@@ -180,7 +201,7 @@ sticky: 99999
 
 ---
 
-### 7. 边缘节点
+### 8. 边缘节点
 
 边缘节点官网地址：[bianyuanjiediantttt.sbs](https://varnexa.bianyuanjiediantttt.sbs/#/register?code=Oy1wZvzJ)
 
@@ -198,7 +219,7 @@ sticky: 99999
 
 ---
 
-### 8. Lumina
+### 9. Lumina
 
 Lumina官网地址：[luminak.net](https://luminak.net/?token=lumina#/register?code=dCgHyjFi)
 
@@ -216,7 +237,7 @@ Lumina（Lumina Airport）是一家主打高性价比、不限设备数量的多
 
 ---
 
-### 9. 光速云
+### 10. 光速云
 
 光速云官网地址：[kjlq01.gsyvipaff.cc](https://kjlq01.gsyvipaff.cc/#/?code=b1OTkTeL)
 
@@ -236,7 +257,7 @@ Lumina（Lumina Airport）是一家主打高性价比、不限设备数量的多
 
 ---
 
-### 10. 星岛梦
+### 11. 星岛梦
 
 星岛梦官网地址：[wuyou202001.xdmvipaff.cc](https://wuyou202001.xdmvipaff.cc/#/?code=olWCiAhj)
 
@@ -256,7 +277,7 @@ Lumina（Lumina Airport）是一家主打高性价比、不限设备数量的多
 
 ---
 
-### 11. 全球云
+### 12. 全球云
 
 全球云机场官网地址：[haozevpn.gcvipaff.cc](https://haozevpn.gcvipaff.cc/#/?code=WRQJc2v4)
 
@@ -275,7 +296,7 @@ Lumina（Lumina Airport）是一家主打高性价比、不限设备数量的多
 
 ---
 
-### 12. 瞬云机场
+### 13. 瞬云机场
 
 瞬云机场官网地址：[syjccloud.com](https://ccc.jichang.best/#/register?code=o4I4kToe)
 
@@ -302,7 +323,7 @@ Lumina（Lumina Airport）是一家主打高性价比、不限设备数量的多
 
 ---
 
-### 13. 寰宇云
+### 14. 寰宇云
 
 寰宇云官网地址：[dashboard.huanyuyunvip.com](https://vip3.huanyuyunbest.com/#/register?code=K6h5VWw2)
 
@@ -324,27 +345,6 @@ Lumina（Lumina Airport）是一家主打高性价比、不限设备数量的多
 > 长期订阅优惠：1年付8折 · 2年付7折 · 3年付6折
 
 [👉 立即注册寰宇云](https://vip3.huanyuyunbest.com/#/register?code=K6h5VWw2)
-
----
-
-### 14. 边界云
-
-边界云官网地址：[lvpn.cc](https://www.lvpn.cc/r/6UQDZT)（优惠码：**zevpn**）
-
-最便宜的订阅有 **12.33元 50G/月（Lite年付，¥148/年）**。
-
-边界云是一家专注于高质量 IEPL 专线的机场服务商，提供 50+ 全球节点，支持 UDP，最高速度 1000Mbps（Pro 套餐），全面解锁 Netflix、Hulu 等主流流媒体平台。所有套餐均提供 3 天无理由全额退款保证，企业级专线套餐还具备高峰期稳定优化，适合有稳定速度需求的用户。使用优惠码 **zevpn** 可享受折扣优惠。
-
-| 套餐 | 流量 | 价格 | 付费方式 | 特点 |
-|------|------|------|--------|------|
-| Mini | 50G/月 | 15元/月 | 月付 | 最高500Mbps，主流媒体支持 |
-| Lite | 50G/月 | 12.33元/月 | 年付¥148 | 最高1000Mbps，Netflix/Hulu解锁 |
-| Pro Semi-Annual | 100G/月 | 24.67元/月 | 半年付¥148 | IEPL企业级专线，高峰期稳定优化 |
-| Pro | 100G/月 | 24.83元/月 | 年付¥298 | IEPL企业级专线，Netflix/TVB/Hulu解锁 |
-
-*📌 优惠码 **zevpn** 下单可享受额外折扣，所有套餐支持3天无理由全额退款。*
-
-[👉 立即注册边界云](https://www.lvpn.cc/r/6UQDZT)
 
 ---
 
